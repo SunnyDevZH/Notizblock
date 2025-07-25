@@ -19,15 +19,20 @@ Das Frontend für die Notizblock-App, entwickelt mit Vanilla JavaScript, HTML un
 ## ⚙️ Installation und Setup
 
 1. Repository klonen  
+    ```bash
    `git clone https://github.com/dein-benutzer/notizblock-frontend`  
+   ```
+   ```bash
    `cd notizblock-frontend`
+   ```
 
 2. Anwendung starten  
+    ```bash
    Öffne die Datei `index.html` im Browser.
+   ```
 
 3. Notizen erfassen  
+    ```bash
    Trage Thema und Text ein und speichere deine Notiz.
+   ```
 
-## 📧 Kontakt
-
-Email: yannick.vaterlaus.dev@gmail.com# Notizblock
